@@ -1,6 +1,10 @@
 # Published Website
 View this project at https://munechika-music-player.herokuapp.com/
 
+<img width="1439" alt="Screen Shot 2021-03-05 at 10 16 43 AM" src="https://user-images.githubusercontent.com/27690333/110135004-06f4aa80-7d9c-11eb-9377-03443605cc9e.png">
+
+<img width="1440" alt="Screen Shot 2021-03-05 at 10 17 23 AM" src="https://user-images.githubusercontent.com/27690333/110135020-09ef9b00-7d9c-11eb-8621-d0ff52e5a35b.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
